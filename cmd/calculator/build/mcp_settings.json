@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "calculator": {
+      "command": "/Users/qianjie/work/git/github/mcp-golang-sandbox/bin/calculator-darwin-amd64",
+      "args": [],
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
